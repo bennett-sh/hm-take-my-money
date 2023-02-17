@@ -1,10 +1,11 @@
 {
 	"$schema": "https://raw.githubusercontent.com/bennett-sh/schemas/main/hm/smf-mod.v2.schema.json",
-	"version": "0.1.0",
+	"version": "1.0.0",
 	"id": "BSh.take-my-money",
 	"name": "Shut up and take my money",
 	"description": "Removes the supplier's annoying voice lines to save you a little bit of time each visit",
 	"authors": ["BSh"],
 	"contentFolders": ["content"],
-	"frameworkVersion": "2.12.4"
+	"frameworkVersion": "2.12.4",
+	"updateCheck": "https://github.com/bennett-sh/hm-take-my-money/releases/latest/download/updates.json"
 }
